@@ -1,0 +1,67 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E402" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N802" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="calculator.pytest.test_Add.BasicTools" />
+          <option value="calculator.pytest.test_Add.*" />
+          <option value="calculator.page.CalAdd_v2.ElementLoc" />
+          <option value="calculator.page.CommonCal.ElementLoc" />
+          <option value="calculator.pytest.test_commoncal.BasicTools" />
+          <option value="calculator.pytest.test_commoncal.Basicfunc" />
+          <option value="calculator.pytest.test_commoncal.CommonCal" />
+          <option value="calculator.page.CommonCal_v2.BasicTools" />
+          <option value="calculator.page.CommonCal_v2.Basicfunc" />
+          <option value="calculator.page.CommonCal_v2.ElementLoc" />
+          <option value="calculator.pytest.test_commoncal_v2.BasicTools" />
+          <option value="calculator.pytest.test_commoncal_v2.CommonCal" />
+          <option value="calculator.pytest.test_commoncal_v2.Basicfunc" />
+          <option value="calculator.pytest.test_commoncal_v2.Task" />
+          <option value="tasks.Task" />
+          <option value="calculator.pytest.conftest.Basicfunc" />
+          <option value="calculator.pytest.conftest.BasicTools" />
+          <option value="calculator.pytest.test_calcConf.BasicTools" />
+          <option value="calculator.pytest.test_calcConf.CommonCal" />
+          <option value="appium_driver" />
+          <option value="calculator.pytest.test_calcConf.calAdd" />
+          <option value="calculator.pytest.test_calcConf.prame2" />
+          <option value="calculator.pytest.test_calcConf.prame1" />
+          <option value="calculator.pytest.test_calcConf.Basicfunc" />
+          <option value="calculator.userallure.Pass" />
+          <option value="calculator.func.AFeatures.steps" />
+          <option value="calculator.page.Scientific.ElementLoc" />
+          <option value="test.func_0.Test_Preferences_Graphic.func_0" />
+          <option value="test.func" />
+          <option value="test.pages.Test_Preferences_ChangeUnit.DevNPrt" />
+          <option value="test.pages.Test_Preferences_ChangeUnit.Screens" />
+          <option value="test.Driver8.Test_Preferences_ChangeUnit.DevNPrt" />
+          <option value="test.Driver8.Test_Preferences_ChangeUnit.Screens" />
+          <option value="PageD8.InstallExe.CommPrt" />
+          <option value="PageD8.InstallExe.TestPath" />
+          <option value="PageD8.InstallExe.Getpath" />
+          <option value="PageD8.UninstallExe.CommPrt" />
+          <option value="PageD8.UninstallExe.TestPath" />
+          <option value="PageD8.UninstallExe.Getpath" />
+          <option value="test.Driver5.D5_InstallPrinter.PyKeyboard" />
+          <option value="pages.yatra_launch_page" />
+          <option value="selenium.webdriver.support.wait.until" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
